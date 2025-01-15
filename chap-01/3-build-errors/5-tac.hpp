@@ -1,6 +1,6 @@
 #pragma once
 
-#include "5-tic.hpp"
+struct Tic;
 
 struct Tac
 {
